@@ -8,7 +8,7 @@ Este script transfiere automáticamente tus canciones que te gustan de **Spotify
 ### 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/spotify-to-youtube-music.git
+git clone https://github.com/emtipi/spotify-to-youtube-music.git
 cd spotify-to-youtube-music
 ```
 
