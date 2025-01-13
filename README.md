@@ -84,4 +84,4 @@ Distribuido bajo la licencia **MIT**. Consulta `LICENSE` para más información.
 
 ## 💻 **Autor**
 
-Creado por **EmTiPi** con la ayuda de **Aiden** 🤖✨
+Creado por **EmTiPi**
